@@ -1,2 +1,2 @@
 ## Hello
-This is for Databricks Connector teseting.
+This is for Databricks Connector testing.
